@@ -59,10 +59,13 @@
     background-color: rgba(151, 167, 255, 0.349);
     margin: 20px;
     padding: 20px;
-    text-align: center;
+    text-align: left;
     border-radius: 20px;
     font-size: 30px;
     text-decoration: none;
+}
+#main p{
+    color:white;
 }
 #homework{
     background-color: rgba(196, 183, 255, 0.493);
